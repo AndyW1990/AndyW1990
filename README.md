@@ -1,16 +1,27 @@
 ### Hello! 👋
 
-I'm Andy, a former Naval Architect with a passion for computer science and machine learning.
+I'm Andy, I recently completed a Data Science course at Le Wagon, London. I have always been passionate about tech and discovered machine learning during my previous role as a Naval Architect when using Python to streamline processes across engineering tasks.
 
-I have been using Python for about 6 years in my old role, and completed some online courses in machine learning over the years.
+I spend 10 years in the maritime industry and was exposed to a great veriety of design and analysis projects. I finally decided to switch careers after completing a few online courses in machine and deep learning. Le Wagon's data science bootcamp was the final piece of the puzzle and hopefully my gateway into the tech industry.
 
-I recently decided to make the career change, first completing a 9-week Data Science bootcamp at Le Wagon, London.
+My current interest is reinforcement learning which I used for my [final project](https://github.com/AndyW1990/rl-control) at Le Wagon. If anyone is interested I made a lockdown "curriculum" to learn RL from online sources back in 2020.
 
-My current interest is reinforcement learning which I used for my [final project](https://github.com/AndyW1990/rl-control) at Le Wagon. If anyone is interested I made a lockdown "curriculum" to learn RL from online sources back in 2020. 
-
-You can contact me on [LinkedIn](https://www.linkedin.com/in/awhitworth1990).
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/awhitworth1990)
 
 <!--
+
+I recently completed a Data Science course at Le Wagon, London. I have always been passionate about tech and discovered machine learning during my previous role as a Naval Architect when using Python to streamline processes across engineering tasks.
+
+I gained valuable experience in project and stakeholder management during a 10 year career as a naval architect and became a chartered engineer in 2019. For the past 6 years I have been teaching myself Python, which I have used in many interesting projects, such as: 
+- Developing a package to use vessel motions data to produce calculations and reports
+- Utilising Python APIs with engineering simulation software to setup, run and extract data for post-processing and presentation
+
+I finally decided to switch careers after completing a few online courses in machine and deep learning, following that up with various online resources to teach myself reinforcement learning, which I am highly interested in. Le Wagon's data science bootcamp was the final piece of the puzzle and hopefully my gateway into the tech industry.
+
+
+
+
+
 I love to learn new things and constantly strive to know more. Here's a list of relavent studies:
 - 2023 - Data Science & AI Course, Le Wagon, London
 - 2021 - Course Rinforcement Learning, David Silver UCL (among other great resources - ask me for my lockdown curriculum!)
