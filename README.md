@@ -2,7 +2,7 @@
 
 I'm Andy, I recently completed a Data Science course at Le Wagon, London. I have always been passionate about tech and discovered machine learning during my previous role as a Naval Architect when using Python to streamline processes across engineering tasks.
 
-I spend 10 years in the maritime industry and was exposed to a great veriety of design and analysis projects. I finally decided to switch careers after completing a few online courses in machine and deep learning. Le Wagon's data science bootcamp was the final piece of the puzzle and hopefully my gateway into the tech industry.
+I spend 10 years at a marine consultancy and was exposed to a great veriety of design and analysis projects. I finally decided to switch careers after completing a few online courses in machine and deep learning. Le Wagon's data science bootcamp was the final piece of the puzzle and hopefully my gateway into the tech industry.
 
 My current interest is reinforcement learning which I used for my [final project](https://github.com/AndyW1990/rl-control) at Le Wagon. If anyone is interested I made a lockdown "curriculum" to learn RL from online sources back in 2020.
 
