@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Andy, a former Naval Architect with a passion for computer programming and machine learning.
+I'm Andy, a former Naval Architect with a passion for computer science and machine learning.
 
 I have been using Python for about 6 years in my old role, and completed some online courses in machine learning over the years.
 
